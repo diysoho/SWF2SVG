@@ -1,3 +1,7 @@
+在 SVG 中添加交互性
+
+https://www.ibm.com/developerworks/cn/xml/x-svgint/index.html
+
 SWF2SVG
 =======
 I observed with disbelief that there is no real, working way to extract the shapes in static SWF frames that doesn’t require heavy interaction.
